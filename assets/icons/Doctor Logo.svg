@@ -1,0 +1,27 @@
+<svg id="Group_1836" data-name="Group 1836" xmlns="http://www.w3.org/2000/svg" width="149.614" height="33" viewBox="0 0 149.614 33">
+  <text id="DOC_OR" data-name="DOC  OR" transform="translate(34.614 26)" fill="#19769f" font-size="24" font-family="OpenSans-Bold, Open Sans" font-weight="700" letter-spacing="0.105em"><tspan x="0" y="0" fill="#5fe5bc">DOC</tspan><tspan y="0" xml:space="preserve" fill="#000">  </tspan><tspan y="0" fill="#19769f">OR</tspan></text>
+  <path id="Path_1044" data-name="Path 1044" d="M150.822,141.667v-4.349s12.525,0,14.613,13.047h-4.523S159.955,142.276,150.822,141.667Z" transform="translate(-136.122 -135.278)" fill="#5fe5bc"/>
+  <path id="Path_1045" data-name="Path 1045" d="M133.572,181.272v4.349s-12.525,0-14.613-13.047h4.523S124.439,180.663,133.572,181.272Z" transform="translate(-118.959 -154.269)" fill="#5fe5bc"/>
+  <path id="Path_1046" data-name="Path 1046" d="M118.959,167.614h6.959l1.566,2.088,1.914-2.783v2.262l-1.914,2.783-2.522-3.044-6-.044Z" transform="translate(-118.959 -151.222)" fill="#19769f"/>
+  <path id="Path_1047" data-name="Path 1047" d="M170.5,164.857h-6.959l-1.566-2.088-1.914,2.783v-2.262l1.914-2.783,2.522,3.044,6,.043Z" transform="translate(-141.098 -147.769)" fill="#19769f"/>
+  <g id="Group_1831" data-name="Group 1831" transform="translate(11.047 13.086)">
+    <g id="Group_1830" data-name="Group 1830">
+      <g id="Group_1828" data-name="Group 1828" transform="translate(2.696)">
+        <rect id="Rectangle_622" data-name="Rectangle 622" width="1.914" height="7.306" fill="#5fe5bc"/>
+      </g>
+      <g id="Group_1829" data-name="Group 1829" transform="translate(0 2.696)">
+        <rect id="Rectangle_623" data-name="Rectangle 623" width="7.306" height="1.914" fill="#5fe5bc"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_1835" data-name="Group 1835" transform="translate(93.267 8.44)">
+    <g id="Group_1834" data-name="Group 1834">
+      <g id="Group_1832" data-name="Group 1832" transform="translate(6.2)">
+        <rect id="Rectangle_624" data-name="Rectangle 624" width="4.4" height="16.8" fill="#19769f"/>
+      </g>
+      <g id="Group_1833" data-name="Group 1833" transform="translate(0 6.2)">
+        <rect id="Rectangle_625" data-name="Rectangle 625" width="16.8" height="4.4" fill="#19769f"/>
+      </g>
+    </g>
+  </g>
+</svg>

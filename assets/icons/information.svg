@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__information" width="11.237" height="11.237" viewBox="0 0 11.237 11.237">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#19769f"/>
+            <stop offset="1" stop-color="#35d8a6"/>
+        </linearGradient>
+        <style>
+            .prefix__cls-1{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <path id="prefix__Path_801" d="M5.619 0a5.619 5.619 0 105.619 5.619A5.625 5.625 0 005.619 0zm0 10.535a4.916 4.916 0 114.916-4.916 4.922 4.922 0 01-4.916 4.916z" class="prefix__cls-1" data-name="Path 801"/>
+    <path id="prefix__Path_802" d="M254.486 112.86a.527.527 0 11-.745 0 .527.527 0 01.745 0" class="prefix__cls-1" data-name="Path 802" transform="translate(-247.266 -109.896)"/>
+    <path id="prefix__Path_803" d="M167.844 163.194a.172.172 0 010-.172l1.708-3.172a.706.706 0 00-.721-1.033l-1.763.252.1.7 1.766-.247-1.708 3.171a.877.877 0 00.772 1.293h1.929v-.7h-1.929a.172.172 0 01-.154-.092z" class="prefix__cls-1" data-name="Path 803" transform="translate(-162.9 -154.851)"/>
+</svg>

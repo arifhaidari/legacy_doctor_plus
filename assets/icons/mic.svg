@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.538" height="18.307" viewBox="0 0 12.538 18.307">
+  <g id="mic" transform="translate(0.5 0.5)" opacity="0.56">
+    <g id="Shape" transform="translate(3.297)">
+      <path id="Shape-2" data-name="Shape" d="M2.472,0A2.389,2.389,0,0,0,0,2.3V8.418a2.389,2.389,0,0,0,2.472,2.3,2.389,2.389,0,0,0,2.472-2.3V2.3A2.389,2.389,0,0,0,2.472,0Z" fill="none" stroke="#2d354c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Shape-3" data-name="Shape" d="M2.472,0A2.389,2.389,0,0,0,0,2.3V8.418a2.389,2.389,0,0,0,2.472,2.3,2.389,2.389,0,0,0,2.472-2.3V2.3A2.389,2.389,0,0,0,2.472,0Z" fill="none"/>
+    </g>
+    <g id="Shape-4" data-name="Shape" transform="translate(0 6.593)">
+      <path id="Shape-5" data-name="Shape" d="M11.538,0V1.648A5.769,5.769,0,0,1,0,1.648V0" fill="none" stroke="#2d354c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Shape-6" data-name="Shape" d="M11.538,0V1.648A5.769,5.769,0,0,1,0,1.648V0" fill="none"/>
+    </g>
+    <g id="Shape-7" data-name="Shape" transform="translate(5.769 14.011)">
+      <path id="Shape-8" data-name="Shape" d="M0,0V3.3" fill="none" stroke="#2d354c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Shape-9" data-name="Shape" d="M0,0V3.3" fill="none"/>
+    </g>
+    <g id="Shape-10" data-name="Shape" transform="translate(2.472 17.307)">
+      <path id="Shape-11" data-name="Shape" d="M0,0H6.593" fill="none" stroke="#2d354c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Shape-12" data-name="Shape" d="M0,0H6.593" fill="none"/>
+    </g>
+  </g>
+</svg>

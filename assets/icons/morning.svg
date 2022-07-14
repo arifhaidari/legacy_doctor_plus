@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.991" height="17.288" viewBox="0 0 17.991 17.288">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#19769f"/>
+            <stop offset="1" stop-color="#35d8a6"/>
+        </linearGradient>
+    </defs>
+    <g id="prefix__morning" transform="translate(0 -10)">
+        <path id="prefix__Path_811" d="M15.906 18.293h1.382a.7.7 0 010 1.406h-1.382a.7.7 0 010-1.406zM.7 19.7h1.385a.7.7 0 100-1.406H.7a.7.7 0 100 1.406zM9 12.788a.7.7 0 00.7-.7V10.7a.7.7 0 10-1.406 0v1.382a.7.7 0 00.706.706zm-5.388 1.818a.7.7 0 10.994-.994l-.977-.977a.7.7 0 10-.994.994zm10.767 0l.977-.977a.7.7 0 10-.994-.994l-.977.977a.7.7 0 00.994.994zm3.612 8.536a.7.7 0 01-.7.7H.7a.7.7 0 010-1.406h4.877a4.855 4.855 0 116.838 0h4.874a.7.7 0 01.702.706zm-9.194-.7h.4a3.45 3.45 0 10-.4 0zm5.727 3.444H3.467a.7.7 0 000 1.406h11.057a.7.7 0 000-1.406z" data-name="Path 811"/>
+    </g>
+</svg>

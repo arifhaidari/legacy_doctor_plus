@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.677" height="12.283" viewBox="0 0 7.677 12.283">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#19769f"/>
+            <stop offset="1" stop-color="#35d8a6"/>
+        </linearGradient>
+        <style>
+            .prefix__cls-1{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__timer" transform="translate(-96)">
+        <g id="prefix__Group_1720" data-name="Group 1720" transform="translate(96)">
+            <g id="prefix__Group_1719" data-name="Group 1719">
+                <path id="prefix__Path_924" d="M103.165 10.795V8.862a2.3 2.3 0 00-.787-1.733l-1.128-.987 1.128-.987a2.3 2.3 0 00.787-1.733V1.488A.766.766 0 00102.909 0h-6.141a.766.766 0 00-.256 1.488v1.933a2.3 2.3 0 00.788 1.734l1.128.987-1.128.986a2.3 2.3 0 00-.787 1.733v1.933a.766.766 0 00.256 1.488h6.141a.766.766 0 00.256-1.488zm-.512-.047h-5.63V8.862a1.793 1.793 0 01.612-1.348l1.348-1.18a.255.255 0 000-.385l-1.348-1.18a1.793 1.793 0 01-.612-1.348V1.535h5.63v1.886a1.793 1.793 0 01-.612 1.348l-1.348 1.18a.255.255 0 000 .385l1.348 1.18a1.791 1.791 0 01.612 1.348z" class="prefix__cls-1" data-name="Path 924" transform="translate(-96)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1722" data-name="Group 1722" transform="translate(97.536 7.17)">
+            <g id="prefix__Group_1721" data-name="Group 1721">
+                <path id="prefix__Path_925" d="M164.566 301.535l-2.047-2.559a.265.265 0 00-.4 0l-2.047 2.559a.256.256 0 00.2.416h4.094a.256.256 0 00.2-.416z" class="prefix__cls-1" data-name="Path 925" transform="translate(-160.016 -298.885)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1724" data-name="Group 1724" transform="translate(98.559 4.094)">
+            <g id="prefix__Group_1723" data-name="Group 1723">
+                <path id="prefix__Path_926" d="M205.2 170.825a.256.256 0 00-.236-.158h-2.047a.256.256 0 00-.181.437l1.024 1.024a.257.257 0 00.362 0l1.024-1.024a.255.255 0 00.054-.279z" class="prefix__cls-1" data-name="Path 926" transform="translate(-202.658 -170.667)"/>
+            </g>
+        </g>
+    </g>
+</svg>

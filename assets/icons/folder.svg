@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.308" height="11.659" viewBox="0 0 13.308 11.659">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#19769f"/>
+            <stop offset="1" stop-color="#35d8a6"/>
+        </linearGradient>
+    </defs>
+    <g id="prefix__folder" transform="translate(0 -28.293)">
+        <g id="prefix__Group_1790" data-name="Group 1790" transform="translate(0 28.293)">
+            <path id="prefix__Path_1035" d="M13.054 31.515a1.14 1.14 0 00-.9-.425h-.522a1.213 1.213 0 00-1.119-.932H4.9a.7.7 0 01-.7-.7 1.167 1.167 0 00-1.166-1.166H1.166A1.167 1.167 0 000 29.459v9.325a1.167 1.167 0 001.166 1.166h.079a1.21 1.21 0 00.151 0h9.3a1.14 1.14 0 001.124-.9l1.461-6.573a1.132 1.132 0 00-.227-.962zM.466 29.459a.7.7 0 01.7-.7h1.865a.7.7 0 01.7.7A1.167 1.167 0 004.9 30.624h5.619a.731.731 0 01.638.466h-8.33a1.14 1.14 0 00-1.124.9L.466 37.545zM12.8 32.374l-1.461 6.582a.666.666 0 01-.649.527H1.4a.7.7 0 01-.673-.846l1.455-6.553a.667.667 0 01.649-.527h9.329a.672.672 0 01.649.817z" data-name="Path 1035" transform="translate(0 -28.293)"/>
+        </g>
+    </g>
+</svg>

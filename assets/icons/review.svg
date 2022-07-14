@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.039" height="15.039" viewBox="0 0 15.039 15.039">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#19769f"/>
+            <stop offset="1" stop-color="#35d8a6"/>
+        </linearGradient>
+        <style>
+            .prefix__cls-1{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__review" transform="translate(0 -.005)">
+        <g id="prefix__Group_1653" data-name="Group 1653" transform="translate(1.586 .005)">
+            <g id="prefix__Group_1652" data-name="Group 1652">
+                <path id="prefix__Path_715" d="M56.052 2.109h-.534c.08-.6.409-.625.561-.639a.294.294 0 00.267-.293V.3a.294.294 0 00-.31-.293C55.107.057 54 .526 54 2.463v1.529a.463.463 0 00.463.463h1.589a.463.463 0 00.463-.463v-1.42a.463.463 0 00-.463-.463zm-.125 1.758h-1.34v-1.4c0-1.351.6-1.729 1.171-1.835v.304c-.393.12-.846.473-.846 1.466a.294.294 0 00.294.294h.721z" class="prefix__cls-1" data-name="Path 715" transform="translate(-54 -.005)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1655" data-name="Group 1655" transform="translate(4.589 .005)">
+            <g id="prefix__Group_1654" data-name="Group 1654">
+                <path id="prefix__Path_716" d="M158.286 2.109h-.534c.08-.6.409-.625.561-.639a.294.294 0 00.267-.293V.3a.294.294 0 00-.31-.293c-.928.052-2.035.521-2.035 2.458v1.527a.463.463 0 00.463.463h1.589a.463.463 0 00.463-.463v-1.42a.463.463 0 00-.464-.463zm-.125 1.758h-1.34v-1.4c0-1.351.6-1.729 1.171-1.835v.304c-.393.12-.846.473-.846 1.466a.294.294 0 00.294.294h.721z" class="prefix__cls-1" data-name="Path 716" transform="translate(-156.234 -.005)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1657" data-name="Group 1657" transform="translate(7.872 2.292)">
+            <g id="prefix__Group_1656" data-name="Group 1656">
+                <path id="prefix__Path_717" d="M268.5 77.951a.294.294 0 10.086.208.3.3 0 00-.086-.208z" class="prefix__cls-1" data-name="Path 717" transform="translate(-268 -77.865)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1659" data-name="Group 1659" transform="translate(0 2.292)">
+            <g id="prefix__Group_1658" data-name="Group 1658">
+                <path id="prefix__Path_718" d="M9.818 77.864h-.37a.294.294 0 000 .587h.37a4.634 4.634 0 01.956 9.167.294.294 0 00-.233.287v1.707L8.732 87.8a.294.294 0 00-.208-.086h-3.3a4.634 4.634 0 01-4.052-6.882.294.294 0 00-.513-.286 5.222 5.222 0 004.565 7.755H8.4l2.225 2.225a.294.294 0 00.5-.208v-2.179a5.221 5.221 0 00-1.31-10.275z" class="prefix__cls-1" data-name="Path 718" transform="translate(0 -77.864)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1661" data-name="Group 1661" transform="translate(3.611 5.218)">
+            <g id="prefix__Group_1660" data-name="Group 1660">
+                <path id="prefix__Path_719" d="M130.46 177.492h-7.23a.294.294 0 100 .587h7.23a.294.294 0 100-.587z" class="prefix__cls-1" data-name="Path 719" transform="translate(-122.937 -177.492)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1663" data-name="Group 1663" transform="translate(3.611 6.785)">
+            <g id="prefix__Group_1662" data-name="Group 1662">
+                <path id="prefix__Path_720" d="M130.46 230.825h-7.23a.294.294 0 100 .587h7.23a.294.294 0 100-.587z" class="prefix__cls-1" data-name="Path 720" transform="translate(-122.937 -230.825)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1665" data-name="Group 1665" transform="translate(3.611 8.351)">
+            <g id="prefix__Group_1664" data-name="Group 1664">
+                <path id="prefix__Path_721" d="M130.46 284.158h-7.23a.294.294 0 100 .587h7.23a.294.294 0 100-.587z" class="prefix__cls-1" data-name="Path 721" transform="translate(-122.937 -284.158)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1667" data-name="Group 1667" transform="translate(6.987 9.918)">
+            <g id="prefix__Group_1666" data-name="Group 1666">
+                <path id="prefix__Path_722" d="M242.018 337.492h-3.854a.294.294 0 100 .587h3.854a.294.294 0 000-.587z" class="prefix__cls-1" data-name="Path 722" transform="translate(-237.871 -337.492)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_1669" data-name="Group 1669" transform="translate(5.33 9.918)">
+            <g id="prefix__Group_1668" data-name="Group 1668">
+                <path id="prefix__Path_723" d="M181.744 337.491a.294.294 0 100 .587.294.294 0 100-.587z" class="prefix__cls-1" data-name="Path 723" transform="translate(-181.446 -337.491)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.823" height="16.823" viewBox="0 0 16.823 16.823">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#19769f"/>
+            <stop offset="1" stop-color="#35d8a6"/>
+        </linearGradient>
+    </defs>
+    <g id="prefix__user">
+        <g id="prefix__Group_1727" data-name="Group 1727">
+            <path id="prefix__Path_993" d="M14.36 10.875a8.379 8.379 0 00-3.2-2 4.863 4.863 0 10-5.5 0A8.425 8.425 0 000 16.823h1.314a7.1 7.1 0 1114.195 0h1.314a8.357 8.357 0 00-2.463-5.948zM8.412 8.412a3.549 3.549 0 113.548-3.549 3.553 3.553 0 01-3.548 3.549z" data-name="Path 993"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.704" height="32.939" viewBox="0 0 24.704 32.939">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#19769f"/>
+            <stop offset="1" stop-color="#35d8a6"/>
+        </linearGradient>
+        <style>
+            .prefix__cls-1{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__rx" transform="translate(-64)">
+        <g id="prefix__Group_1783" data-name="Group 1783" transform="translate(64)">
+            <g id="prefix__Group_1782" data-name="Group 1782">
+                <path id="prefix__Path_1022" d="M88.5 7.063L81.641.2a.686.686 0 00-.485-.2H66.745A2.748 2.748 0 0064 2.745v27.449a2.748 2.748 0 002.745 2.745h19.214a2.748 2.748 0 002.741-2.745V7.548a.686.686 0 00-.2-.485zm-6.661-4.72l4.519 4.519h-3.144a1.374 1.374 0 01-1.372-1.372zm5.49 27.851a1.374 1.374 0 01-1.372 1.372H66.745a1.374 1.374 0 01-1.372-1.372V2.745a1.374 1.374 0 011.372-1.372h13.724V5.49a2.748 2.748 0 002.745 2.745h4.117z" class="prefix__cls-1" data-name="Path 1022" transform="translate(-64)"/>
+                <path id="prefix__Path_1023" d="M181.388 179.053a.689.689 0 00-.965.107l-2.023 2.528-3.128-4.379a3.423 3.423 0 00-1.175-6.641h-2.745a.686.686 0 00-.686.686v9.607a.686.686 0 001.372 0v-3.431h1.706l3.766 5.272-2.576 3.22a.687.687 0 001.072.858l2.334-2.917 2.062 2.887a.686.686 0 001.117-.8l-2.288-3.2 2.265-2.832a.687.687 0 00-.108-.965zm-9.35-2.9v-4.113h2.062a2.059 2.059 0 010 4.117z" class="prefix__cls-1" data-name="Path 1023" transform="translate(-163.804 -159.688)"/>
+            </g>
+        </g>
+    </g>
+</svg>
