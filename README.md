@@ -1,4 +1,4 @@
-# (Legacy) Doctor Plus - Mobile App - Flutter
+# (Legacy) Doctor Plus - Mobile App
 
 Doctor Plus is a groundbreaking mobile application developed in affiliation with the Ministry of Health in Afghanistan. This app is a key component of the larger Doctor Plus project, which aims to digitize and streamline various activities within the Ministry of Health. By collecting and utilizing data across multiple platforms, Doctor Plus provides invaluable insights and services that improve healthcare delivery throughout the country.
 
