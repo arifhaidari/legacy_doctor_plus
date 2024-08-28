@@ -60,7 +60,7 @@ This project is licensed under the terms of the **Copyright © 2020 Arif Haidari
 
 This project was originally private and has been made public for educational and portfolio purposes only. The code, design, or any other materials may not be used, copied, modified, merged, published, distributed, sublicensed, or sold for production or commercial purposes without explicit permission from the copyright holder.
 
-Please respect the intellectual property rights and refrain from using this project for any production or commercial USE.
+Please respect the intellectual property rights and refrain from using this project for any production or commercial use.
 
 ---
 
